@@ -57,6 +57,11 @@ class ZendX_JQuery_View_Helper_JQuery extends Zend_View_Helper_Abstract
     public $view;
 
 	/**
+     * @var ZendX_JQuery_View_Helper_JQuery_Container
+     */
+    private $_container;
+
+	/**
 	 * jQuery no Conflict Mode
 	 *
 	 * @see	      http://docs.jquery.com/Using_jQuery_with_Other_Libraries
