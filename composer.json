@@ -1,6 +1,6 @@
 {
-    "name": "shardj/zf1-extras-future",
-    "description": "Zend Framework 1 Extras PHP 7.2 and 7.3 compatible",
+    "name": "carsale24-avonarb/zf1-extras-future",
+    "description": "Zend Framework 1 Extras PHP 8.2 compatible",
     "type": "library",
     "keywords": [
         "framework",
@@ -22,7 +22,7 @@
     ],
     "extra": {
         "branch-alias": {
-            "dev-master": "1.12.x-dev"
+            "dev-master": "1.13.x-dev"
         }
     },
     "replace": {
